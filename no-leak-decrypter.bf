@@ -1,3 +1,3 @@
-> , > , <[ > + < - ] > . [-]<<
+, > , <[ > + < - ] > . [-]<
   ^   ^ Encrypted character
   | input
